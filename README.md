@@ -1,36 +1,38 @@
 # Ivan Zamula
 
+[English](README.md) | [Русский](README.ru.md)
+
 **Python Backend Developer** | 6+ years | AI/LLM Integration
 
-Backend developer with 6+ years of commercial experience in Python. I build scalable backend systems with Django, FastAPI, and Litestar, and integrate LLMs into production workflows — RAG services, AI agents, and data pipelines.
+I am a Python backend developer with 6+ years of commercial experience. I build scalable backends with Django, FastAPI and Litestar. I integrate LLMs into production workflows, including RAG services, AI agents and data pipelines.
 
-## Tech Stack
+## Tech stack
 
-**Backend:** Python, Django, DRF, FastAPI, Litestar, Flask, OpenCV, OR-Tools
-**Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Qdrant, S3 Minio 
-**Messaging & Async:** Kafka, Celery, RabbitMQ, Asyncio
-**AI / LLM:** LangChain, RAG, OpenAI & Claude APIs, Airflow, Gradio
-**DevOps:** Docker, Kubernetes, GitLab CI, GitHub Actions, Prometheus, Grafana, Sentry
-**Additional Learning:** Java (Spring Boot, Junior+), Go (Junior)
+- Backend: Python, Django, DRF, FastAPI, Litestar, Flask, OpenCV, OR-Tools
+- Databases and storage: PostgreSQL, MySQL, Elasticsearch, Redis, Qdrant, S3 / MinIO
+- Messaging and async: Kafka, Celery, RabbitMQ, Asyncio
+- AI / LLM: LangChain, RAG, OpenAI and Claude APIs, Airflow, Gradio
+- DevOps: Docker, Kubernetes, GitLab CI, GitHub Actions, Prometheus, Grafana, Sentry
+- Additional learning: Java (Spring Boot, Junior+), Go (Junior)
 
-## Focus Areas
+## Focus areas
 
-- RAG services for corporate search — connectors, Airflow pipelines, vector stores
+- RAG services for corporate search: connectors, Airflow pipelines and vector stores
 - AI agents (Cline, Claude Code) with CI/CD integration
-- Backend microservices for video analytics (OpenCV, Kafka, S3 Minio)
-- Optimization & simulation (Salabim, OR-Tools, genetic algorithms, discrete models)
+- Backend microservices for video analytics with OpenCV, Kafka and S3 / MinIO
+- Optimization and simulation with Salabim, OR-Tools, genetic algorithms and discrete models
 
 ## Languages
 
-- Russian — Native
-- English — C1
-- German — B1
+- Russian: native
+- English: C1
+- German: B1
 
 ## Contact
 
 - LinkedIn: [linkedin.com/in/ivan-zamula](https://www.linkedin.com/in/ivan-zamula/)
 - Telegram: [@ivanzamula](https://t.me/ivanzamula)
-- Email: ivan.zamula@gmail.com
+- Email: [ivan.zamula@gmail.com](mailto:ivan.zamula@gmail.com)
 
 ---
 
