@@ -11,7 +11,7 @@ Backend developer with 6+ years of commercial experience in Python. I build scal
 **Messaging & Async:** Kafka, Celery, RabbitMQ, Asyncio
 **AI / LLM:** LangChain, RAG, OpenAI & Claude APIs, Airflow, Gradio
 **DevOps:** Docker, Kubernetes, GitLab CI, GitHub Actions, Prometheus, Grafana, Sentry
-**Additional:** Learning Java (Spring Boot, Junior+), Go (Junior)
+**Additional Learning:** Java (Spring Boot, Junior+), Go (Junior)
 
 ## Focus Areas
 
