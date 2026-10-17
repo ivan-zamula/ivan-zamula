@@ -7,7 +7,7 @@ Backend developer with 6+ years of commercial experience in Python. I build scal
 ## Tech Stack
 
 **Backend:** Python, Django, DRF, FastAPI, Litestar, Flask, OpenCV, OR-Tools
-**Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Qdrant
+**Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Qdrant, S3 Minio 
 **Messaging & Async:** Kafka, Celery, RabbitMQ, Asyncio
 **AI / LLM:** LangChain, RAG, OpenAI & Claude APIs, Airflow, Gradio
 **DevOps:** Docker, Kubernetes, GitLab CI, GitHub Actions, Prometheus, Grafana, Sentry
@@ -17,8 +17,8 @@ Backend developer with 6+ years of commercial experience in Python. I build scal
 
 - RAG services for corporate search — connectors, Airflow pipelines, vector stores
 - AI agents (Cline, Claude Code) with CI/CD integration
-- Backend microservices for video analytics (OpenCV, Kafka, Minio)
-- Optimization & simulation (OR-Tools, genetic algorithms, discrete models)
+- Backend microservices for video analytics (OpenCV, Kafka, S3 Minio)
+- Optimization & simulation (Salabim, OR-Tools, genetic algorithms, discrete models)
 
 ## Languages
 
