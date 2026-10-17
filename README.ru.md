@@ -1,4 +1,4 @@
-# Иван Замула
+# Иван Замула — профиль GitHub (2026)
 
 [English](README.md) | [Русский](README.ru.md)
 
