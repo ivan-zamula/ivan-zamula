@@ -6,12 +6,12 @@ Backend developer with 6+ years of commercial experience in Python. I build scal
 
 ## Tech Stack
 
-**Backend:** Python, Django, DRF, FastAPI, Litestar, Flask
+**Backend:** Python, Django, DRF, FastAPI, Litestar, Flask, OpenCV, OR-Tools
 **Databases:** PostgreSQL, MySQL, Elasticsearch, Redis, Qdrant
 **Messaging & Async:** Kafka, Celery, RabbitMQ, Asyncio
 **AI / LLM:** LangChain, RAG, OpenAI & Claude APIs, Airflow, Gradio
 **DevOps:** Docker, Kubernetes, GitLab CI, GitHub Actions, Prometheus, Grafana, Sentry
-**Additional:** Java (Spring Boot, junior), Go (learning), OpenCV, OR-Tools
+**Additional:** Learning Java (Spring Boot, Junior+), Go (Junior)
 
 ## Focus Areas
 
